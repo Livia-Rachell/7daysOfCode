@@ -3,6 +3,7 @@
   width: 100px;
 }
 */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 * {
   box-sizing: border-box;
   margin: 0;
@@ -11,6 +12,40 @@
 ul {
   list-style-type: none;
 }
+li {
+  display: inline;
+  float: left;
+}
 a {
   text-decoration: none;
+  display: block;
+  font-family: inter;
+  color: #667085;
+}
+.naveg{
+  margin: 18px 80px;
+}
+.logo {
+  margin: 7px 32px;
+}
+.menu{
+  margin-left: 300px;
+}
+.menu a{
+  padding: 10px 16px;
+  font-weight: 500;
+}
+.botoes{
+  float: right;
+  margin-right: 20px;
+}
+.botoes a {
+  padding: 10px 18px;
+  margin-right: 12px;
+  font-weight: 500;
+}
+#b_cdt {
+  color: #fff;
+  background-color: #8E2424;
+  border-radius: 8px;
 }
