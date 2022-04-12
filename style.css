@@ -36,3 +36,50 @@ a {
 }
 
 /* Seção 1 */
+
+.secao1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 96px 0px;
+}
+.secao1 span {
+  color:#8E2424;
+  font-weight: 600;
+}
+.secao1 h1 {
+  padding: 24px 0px;
+  color: #101828;
+  font-weight: 600;
+  font-size: 48px;
+}
+.secao1 p {
+  text-align: center;
+  padding: 12px 0px;
+  color: #667085;
+  font-weight: 400;
+  font-size: 20px;
+  width: 791px;
+}
+
+/* Seção 2 */
+.secao2 {
+  display: flex;
+  padding: 0px 80px 96px 80px;
+}
+.secao2 h2{
+   color: #8E2424;
+   font-weight: 600;
+   font-size: 60px;
+}
+.secao2 h3{
+  color: #101828;
+  font-weight: 500;
+  font-size: 18px;
+}
+.secao2 p{
+  color: #667085;
+  font-weight: 400;
+  font-size: 16px;
+  width: 280px;
+}
