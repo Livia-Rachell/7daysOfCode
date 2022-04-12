@@ -8,3 +8,4 @@ O escopo do projeto é o seguinte: uma empresa de TI, a OptimusTech quer desenvo
 Ps: O 7daysOfCode é uma iniciativa da Alura e funciona assim: você se inscreve facilmente pela plataforma da Alura e recebe, durante 7 dias, novos desafios por e-mail que vão do nível básico ao avançado, nos quais você constrói um projeto do zero, de acordo com a sua área de interesse. Tem HTML + CSS, tem Javascript, React, Dados e muito mais!
 
 Basta se inscrevem em: https://7daysofcode.io/ e ser feliz! :)
+#7daysOfCode
