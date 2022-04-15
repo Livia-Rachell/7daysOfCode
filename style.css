@@ -198,3 +198,40 @@ a {
   font-weight: 400;
   font-size: 14px;
 }
+
+/* Seção 6 */
+.rodape {
+  background-color: rgba(249, 250, 251, 1);
+  height: 430px;
+  padding: 96px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.rodape1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 39%;
+}
+.rodape1 h3 {
+  color: #101828;
+  font-weight: 600;
+  font-size: 36px;
+}
+.rodape1 p {
+  color: #667085;
+  font-size: 20px;
+}
+form input {
+  width: 360px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border: 1px solid #D0D5DD;
+}
+.copyr {
+  color: #98A2B3;
+  font-size: 16px;
+}
