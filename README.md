@@ -10,5 +10,3 @@ Ps: O 7daysOfCode é uma iniciativa da Alura e funciona assim: você se inscreve
 Basta se inscrevem em: https://7daysofcode.io/ e ser feliz! :)
 
 #7daysOfCode
-
-Preview: https://livia-rachell.github.io/7daysOfCode/index.html
